@@ -1,0 +1,38 @@
+NejedNiko Commercial Limited License (NCLL) v1.0
+
+Copyright (c) NejedNiko
+
+This software is licensed, not sold.
+
+1. License Grant
+   Subject to payment of applicable fees and compliance with this license, the author grants the licensee a non-exclusive, non-transferable, non-sublicensable, limited right to use this software for commercial and internal business purposes.
+
+2. Scope of Use
+   The license permits use of the software within the licensed organization or for the licensed individual only, according to the purchased license scope (e.g. single user, device, seat, or organization). External distribution or access beyond the licensed scope is not permitted unless explicitly authorized.
+
+3. Restrictions
+   You may not:
+
+* redistribute the software in any form
+* resell, sublicense, or provide the software as a standalone product or service
+* modify, reverse engineer, decompile, or create derivative works of the software
+* remove or alter any copyright notices, license checks, or attribution markers
+* bypass, disable, or interfere with any licensing, activation, or access control mechanisms
+
+4. License Enforcement and Access Control
+   The software may include technical measures to verify license validity, enforce usage limits, or control access (including but not limited to license keys, online activation, hardware binding, or usage monitoring). These mechanisms are considered part of the licensed functionality and may be updated or modified by the author.
+
+5. Ownership
+   All rights, title, and interest in and to the software remain the exclusive property of the author. No ownership rights are transferred under this license.
+
+6. Termination
+   This license is automatically terminated if the licensee violates any of its terms. Upon termination, the licensee must immediately cease all use of the software and destroy all copies in their possession or control.
+
+7. Warranty Disclaimer
+   The software is provided "as is", without warranty of any kind, express or implied, including but not limited to merchantability, fitness for a particular purpose, and non-infringement.
+
+8. Limitation of Liability
+   In no event shall the author be liable for any direct, indirect, incidental, special, or consequential damages arising out of the use or inability to use the software.
+
+9. Governing Law
+   This license shall be governed by and construed in accordance with the laws of the Czech Republic.

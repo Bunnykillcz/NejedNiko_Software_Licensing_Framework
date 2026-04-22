@@ -1,0 +1,43 @@
+NejedNiko Free Use License (NFUL) v1.0
+
+Copyright (c) NejedNiko
+
+This software is licensed, not sold.
+
+1. Grant of License
+   Permission is granted to any individual or legal entity to use this software free of charge, including for commercial purposes.
+
+2. Redistribution
+   Redistribution of the software is permitted, provided that:
+
+* the software is distributed in its original, unmodified form
+* all copyright notices and this license text are preserved
+* clear attribution to the original author (NejedNiko) is maintained in any distribution, documentation, or accompanying materials
+
+3. Restrictions
+   You may not:
+
+* modify, adapt, translate, reverse engineer, decompile, or create derivative works of the software
+* remove, obscure, or alter any author attribution or copyright notice
+* sublicense, relicense, or present the software as your own work
+* distribute the software in a way that misrepresents its origin or ownership
+
+4. Optional Access Control
+   The author may choose to implement technical or administrative measures to control access to the software, including but not limited to license keys, activation systems, usage limitations, or revocation mechanisms.
+   Where such measures are implemented, their use and enforcement are considered part of this license.
+
+5. Ownership
+   All rights, title, and interest in and to the software remain the exclusive property of the author.
+
+6. Termination
+   This license is automatically terminated if you fail to comply with any of its terms. Upon termination, you must cease all use and distribution of the software.
+
+7. Disclaimer of Warranty
+   The software is provided "as is", without warranty of any kind, express or implied, including but not limited to fitness for a particular purpose and noninfringement.
+
+8. Limitation of Liability
+   In no event shall the author be liable for any damages arising from the use or inability to use the software.
+
+9. Governing Law
+   This license shall be governed by and construed in accordance with the laws of the Czech Republic.
+
