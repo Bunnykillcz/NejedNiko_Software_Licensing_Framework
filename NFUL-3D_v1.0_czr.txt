@@ -1,0 +1,155 @@
+NejedNiko Free Use License — 3D (NFUL-3D) v1.0
+
+Copyright (c) NejedNiko
+
+This license governs the use, reproduction, distribution, and physical manufacture of 3D model files and objects produced from them.
+
+This work is licensed, not sold.
+
+1. Definitions
+
+"Model" means the 3D model files, design files, mesh data, parametric design files, and associated documentation distributed under this license, including files in formats such as STL, OBJ, STEP, 3MF, F3D, BLEND, or any equivalent format.
+
+"Physical Object" means any tangible item manufactured, printed, cast, machined, formed, or otherwise produced using the Model as a template or blueprint, including 3D-printed parts, CNC-machined parts, molded components, or similar.
+
+"Author" means NejedNiko, the original creator and copyright holder of the Model.
+
+"You" means any individual or legal entity using, copying, modifying, distributing, or manufacturing from the Model.
+
+"Modified Model" means any version of the Model that has been changed, adapted, extended, remixed, rescaled, or otherwise altered from its original form.
+
+"Commercial Use" means use primarily intended for commercial advantage, monetary compensation, paid services, product sales, business operations, or revenue generation.
+
+2. Grant of License
+
+Permission is granted to use, copy, study, modify, and redistribute the Model, and to manufacture Physical Objects from it, subject to the terms of this license.
+
+The Model and Physical Objects produced from it may be used free of charge for personal, educational, research, hobby, and other non-commercial purposes.
+
+3. Attribution Requirement
+
+Any use, redistribution, publication, or Modified Model must preserve clear attribution to the original Author.
+
+At minimum, the following must be preserved:
+
+* the original copyright notice
+* this license text or a clear reference to it
+* the name NejedNiko as the original Author
+
+For Physical Objects distributed to others, attribution must be provided in at least one of the following ways:
+
+* a label, engraving, or marking on or near the Physical Object, where reasonably practical
+* printed or digital documentation included with the Physical Object
+* a product listing, page, or description that clearly credits the original Author and references this license
+
+You may not misrepresent the original authorship of the Model or Physical Object.
+
+4. Redistribution of Model Files
+
+You may redistribute the Model files provided that:
+
+* this license text is included
+* all copyright and attribution notices are preserved
+* the Model is not falsely presented as your own original design
+* any Modified Model is clearly marked as modified and includes a description of changes made
+
+5. Redistribution of Physical Objects
+
+You may distribute Physical Objects produced from the Model for non-commercial purposes, provided that:
+
+* attribution to the original Author is provided as described in Section 3
+* the Physical Object is not falsely presented as entirely your own original design
+
+6. Modifications
+
+You may modify the Model and create Modified Models, provided that:
+
+* your modifications are clearly described
+* the original Author remains credited
+* this license is included with the Modified Model
+* the Modified Model does not imply endorsement by the original Author unless explicitly permitted in writing
+* you do not use the name, branding, or identity of NejedNiko in a misleading way
+
+A Modified Model must include a notice such as:
+
+"Modified from original design by NejedNiko."
+
+Where practical, the notice should also include a short summary of the changes made.
+
+7. Non-Commercial Use
+
+The Model, Modified Models, and Physical Objects produced from them may be used, copied, modified, and distributed freely for non-commercial purposes.
+
+Commercial Use of the original, unmodified Model, or of Physical Objects produced directly from it without substantial transformation, is not permitted without prior written permission from the Author.
+
+8. Commercial Use Exception
+
+Commercial Use of Physical Objects or Modified Models may be permitted without separate written permission only if the Model has been substantially incorporated as a minor, supporting component within a larger independent product or design, and all of the following conditions are met:
+
+* the resulting product contains substantial original design work clearly beyond the Model itself
+* the Model does not constitute the primary feature, defining visual element, or main deliverable of the resulting product
+* the resulting product is not primarily a resale, repackaging, or redistribution of the Model or of Physical Objects produced directly from it
+* attribution to the original Author is preserved
+* this license or a clear reference to it is included in product documentation or listings
+
+If there is genuine uncertainty whether a use qualifies under this exception, prior written permission from the Author is required before commercial activity begins.
+
+9. Restrictions
+
+You may not:
+
+* remove, obscure, or alter copyright notices, license text, or author attribution
+* present the Model or Physical Objects as entirely your own original design
+* sell, rent, lease, sublicense, or relicense the original, unmodified Model files
+* commercially mass-produce Physical Objects based on the original, unmodified Model without prior written permission
+* use the Author's name, branding, logo, or identity to imply endorsement without permission
+
+10. Ownership
+
+The original Model and its design remain the property of the Author.
+
+This license does not transfer ownership of the Model, the name NejedNiko, logos, branding, trademarks, or other identity-related materials.
+
+You own your original modifications, but only to the extent they do not include or override the rights of the original Author in the original Model.
+
+11. Third-Party Components
+
+Third-party models, assets, components, or files included with or referenced by the Model may be subject to their own license terms. This license does not replace or override third-party license terms.
+
+12. Termination
+
+This license is automatically terminated if you fail to comply with its terms.
+
+Upon termination, you must stop using, distributing, and manufacturing from the Model and any Modified Models that violate this license.
+
+Termination does not remove the requirement to preserve attribution for Physical Objects already distributed.
+
+13. Disclaimer of Warranty
+
+The Model and any Physical Objects produced from it are provided "as is", without warranty of any kind, express, implied, or statutory.
+
+The Author makes no warranties regarding functionality, structural integrity, dimensional accuracy, material compatibility, fitness for a particular purpose, safety, or suitability for any specific application.
+
+14. Safety Notice
+
+Physical Objects produced from the Model are manufactured entirely at your own risk. The Author does not guarantee structural soundness, load-bearing capacity, material compatibility, or safety for any specific use. You are solely responsible for assessing the suitability of any Physical Object for its intended application, particularly in safety-critical contexts.
+
+15. Limitation of Liability
+
+To the maximum extent permitted by applicable law, the Author shall not be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising from the use, manufacture, distribution, or inability to use the Model or Physical Objects produced from it.
+
+This includes, but is not limited to, structural failure, personal injury, property damage, loss of data, loss of profits, or any other damages, even if the Author has been advised of the possibility of such damages.
+
+16. Patent Non-Assertion
+
+To the extent the Author holds patents or patent applications covering the Model or its design, the Author grants You a non-exclusive, royalty-free, worldwide license under those patents solely to use the Model as permitted by this license. This grant does not extend beyond the scope of this license, does not apply to uses that exceed the permissions granted here, and may be terminated if You initiate patent litigation against the Author specifically relating to the Model.
+
+17. Governing Law
+
+This license shall be governed by and construed in accordance with the laws of the Czech Republic.
+
+18. Permission and Exceptions
+
+The Author may grant additional permissions, commercial licenses, exceptions, or separate agreements in writing.
+
+Any such permission applies only to the specific person, entity, version, and use case for which it was granted.

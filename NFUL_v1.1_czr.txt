@@ -1,0 +1,153 @@
+NejedNiko Free Use License (NFUL) v1.1
+
+Copyright (c) NejedNiko
+
+This software is licensed, not sold.
+
+1. Definitions
+
+"Software" means the software, source code, binaries, documentation, assets, and accompanying files distributed with this license, unless otherwise stated.
+
+"Author" means NejedNiko, the original creator and copyright holder of the Software.
+
+"You" means any individual or legal entity using, copying, modifying, or redistributing the Software.
+
+"Modified Version" means any version of the Software that has been changed, adapted, extended, translated, transformed, rebuilt, or otherwise altered from its original form.
+
+"Commercial Use" means use of the Software primarily intended for commercial advantage, monetary compensation, paid services, product sales, business operations, or revenue generation.
+
+2. Grant of License
+
+Permission is granted to use, copy, study, modify, and redistribute the Software, subject to the terms of this license.
+
+The Software may be used free of charge for personal, educational, research, hobby, internal testing, and other non-commercial purposes.
+
+3. Attribution Requirement
+
+Any use, copy, redistribution, publication, or Modified Version of the Software must preserve clear attribution to the original Author.
+
+At minimum, the following must be preserved:
+
+* the original copyright notice
+* this license text
+* the name NejedNiko as the original Author
+* any included attribution notices, credits, or author files
+
+You may not remove, obscure, or misrepresent the original authorship of the Software.
+
+4. Redistribution
+
+You may redistribute the Software, provided that:
+
+* this license text is included
+* all copyright and attribution notices are preserved
+* the Software is not falsely presented as your own original work
+* any Modified Version is clearly marked as modified
+* the nature of your modifications is reasonably described
+
+Redistribution of the original, unmodified Software must keep it in its original form.
+
+5. Modifications
+
+You may modify the Software and create Modified Versions, provided that:
+
+* your modifications are clearly stated
+* the original Author remains credited
+* this license remains included
+* the Modified Version does not imply endorsement by the original Author unless permission was explicitly granted
+* you do not use the name, branding, logo, or identity of NejedNiko in a misleading way
+
+A Modified Version must include a notice such as:
+
+"Modified from original software by NejedNiko."
+
+Where practical, the notice should also include a short summary of the changes made.
+
+6. Non-Commercial Use
+
+The Software and Modified Versions may be used, copied, modified, and redistributed for non-commercial purposes.
+
+Commercial Use of the original, unmodified Software is not permitted without prior written permission from the Author.
+
+7. Commercial Use Exception
+
+Commercial Use may be permitted without separate written permission only if the Software has been substantially incorporated as a minor, supporting component within a larger independent work, and all of the following conditions are met:
+
+* the resulting work contains substantial original work clearly beyond the Software itself
+* the Software does not constitute the primary feature, core function, or main deliverable of the resulting work
+* the resulting work is not primarily a resale, repackaging, rebranding, hosting, or redistribution of the Software
+* attribution to the original Author is preserved
+* this license or a clear reference to it is included
+* the nature of the use or modification is clearly stated
+
+If there is genuine uncertainty whether a use qualifies under this exception, prior written permission from the Author is required before commercial use begins.
+
+8. Restrictions
+
+You may not:
+
+* remove, obscure, or alter copyright notices, license text, or author attribution
+* present the Software or a Modified Version as entirely your own original work
+* sell, rent, lease, sublicense, or relicense the original, unmodified Software
+* use the Software in a way that misrepresents its origin or ownership
+* use the Author's name, logo, branding, or domain names to imply endorsement without permission
+* distribute malware, spyware, harmful code, or deceptive software based on the Software
+* bypass, remove, or disable any technical access-control, activation, license-key, or integrity-check mechanism, except where such restriction is prohibited by applicable law
+
+9. Source Code and License Preservation
+
+If the Software is distributed in source-code form, this license must be included with the source code.
+
+If the Software is distributed in binary or compiled form, this license must be included in the package, documentation, about dialog, accompanying files, or other reasonably accessible location.
+
+Modified Versions must retain this license unless separate written permission is granted by the Author.
+
+10. Ownership
+
+The original Software remains the property of the Author.
+
+This license does not transfer ownership of the Software, the name NejedNiko, logos, branding, trademarks, domains, or other identity-related materials.
+
+You own your own original modifications, but only to the extent that they do not include or override the rights of the original Author in the original Software.
+
+11. Third-Party Components
+
+Third-party libraries, assets, tools, or components included with the Software may be subject to their own license terms.
+
+This license does not replace or override third-party license terms.
+
+12. Termination
+
+This license is automatically terminated if you fail to comply with its terms.
+
+Upon termination, you must stop using and redistributing the Software and any Modified Versions that violate this license.
+
+Termination does not remove the requirement to preserve attribution for any copies or derivatives already distributed.
+
+13. Disclaimer of Warranty
+
+The Software is provided "as is", without warranty of any kind, express, implied, statutory, or otherwise.
+
+The Author makes no warranties regarding functionality, reliability, accuracy, security, compatibility, fitness for a particular purpose, noninfringement, or availability.
+
+Use of the Software is at your own risk.
+
+14. Limitation of Liability
+
+To the maximum extent permitted by applicable law, the Author shall not be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising from the use, modification, redistribution, or inability to use the Software.
+
+This includes, but is not limited to, loss of data, loss of profits, business interruption, system failure, security issues, or any other damages, even if the Author has been advised of the possibility of such damages.
+
+15. Governing Law
+
+This license shall be governed by and construed in accordance with the laws of the Czech Republic.
+
+16. Permission and Exceptions
+
+The Author may grant additional permissions, commercial licenses, exceptions, or separate agreements in writing.
+
+Any such permission applies only to the specific person, entity, version, and use case for which it was granted.
+
+17. Patent Non-Assertion
+
+To the extent the Author holds patents or patent applications covering the Software, the Author grants You a non-exclusive, royalty-free, worldwide license under those patents solely to use the Software as permitted by this license. This grant does not extend beyond the scope of this license, does not apply to uses that exceed the permissions granted here, and may be terminated if You initiate patent litigation against the Author specifically relating to the Software.

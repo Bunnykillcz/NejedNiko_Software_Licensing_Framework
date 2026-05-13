@@ -6,9 +6,10 @@ This document provides a simple overview of the licensing models used across [Ne
 
 ## Overview
 
-The NejedNiko Software Licensing Framework defines three main license types depending on the intended usage model:
+The NejedNiko Software Licensing Framework defines four main license types depending on the intended usage model:
 
-* Free controlled use with attribution (NFUL)
+* Free controlled use with attribution (NFUL v1.0, NFUL v1.1)
+* 3D model and physical manufacturing use (NFUL-3D)
 * Open-source permissive use (NOWL)
 * Paid commercial restricted use (NCLL)
 
@@ -20,25 +21,75 @@ Each license is designed for a different distribution and usage scenario.
 
 **Type:** Free use with controlled redistribution
 
+---
+
+### NFUL v1.0 (Legacy)
+
 **Use case:**
 
 * Free software usage
-* Commercial usage allowed
-* Redistribution allowed under strict conditions
+* Commercial use allowed
+* Redistribution in original form only
 
 **Key characteristics:**
 
 * Attribution required
-* No modification allowed
+* Modification not allowed
 * No rebranding or misrepresentation
-* Redistribution allowed only in original form
+* Redistribution allowed only in original, unmodified form
 
 **License text:**
-See full license: [NFUL v1.0](./NFUL_v1.0_czr.txt)
+[NFUL v1.0](./NFUL_v1.0_czr.txt)
 
 ---
 
-## 2. NejedNiko Openware License (NOWL)
+### NFUL v1.1 (Current)
+
+**Use case:**
+
+* Free non-commercial software usage
+* Modification and redistribution with attribution
+* Limited commercial exception for minor integrations
+
+**Key characteristics:**
+
+* Attribution required
+* Modification allowed with clear attribution
+* Non-commercial by default
+* Commercial use permitted only when the Software is a minor supporting component of a larger independent work
+* Patent non-assertion clause included
+
+**License text:**
+[NFUL v1.1](./NFUL_v1.1_czr.txt)
+
+---
+
+## 2. NejedNiko Free Use License — 3D (NFUL-3D)
+
+**Type:** Free use license for 3D model files and physical objects manufactured from them
+
+**Use case:**
+
+* Personal and non-commercial 3D printing
+* Sharing and modifying 3D model files
+* Educational and research use
+* Limited commercial use when the Model is a minor component in a larger original product
+
+**Key characteristics:**
+
+* Attribution required for both digital distribution and physical objects
+* Modification allowed with clear attribution
+* Non-commercial by default for both model files and physical objects
+* Commercial mass production not permitted without written permission
+* Safety disclaimer included for physical objects
+* Patent non-assertion clause included
+
+**License text:**
+[NFUL-3D v1.0](./NFUL-3D_v1.0_czr.txt)
+
+---
+
+## 3. NejedNiko Openware License (NOWL)
 
 **Type:** Open-source permissive license
 
@@ -61,7 +112,7 @@ See full license: [NOWL v1.0](./NOWL_v1.0_czr.txt)
 
 ---
 
-## 3. NejedNiko Commercial Limited License (NCLL)
+## 4. NejedNiko Commercial Limited License (NCLL)
 
 **Type:** Proprietary commercial license
 
