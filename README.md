@@ -64,7 +64,7 @@ Each license is designed for a different distribution and usage scenario.
 
 ---
 
-## 2. NejedNiko Free Use License — 3D (NFUL-3D)
+## 2. NejedNiko Free Use License - 3D (NFUL-3D)
 
 **Type:** Free use license for 3D model files and physical objects manufactured from them
 
